@@ -1,0 +1,4 @@
+INCLUDE Shadow53/bastille-templates/pkg-latest
+PKG syncthing
+SYSRC syncthing_enable=YES
+SERVICE syncthing start
